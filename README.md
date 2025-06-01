@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Pack-A-Mal]([https://github.com/lyvd/OSSquat](https://github.com/lyvd/Pack-A-Mal)). We would love to hear your feedback and your support/sponsor.
+- 🔭I am a founder of Packguard.dev, a startup working on analyzing and detecting malicious open-source packages. I’m currently working on [Pack-A-Mal]([https://github.com/lyvd/OSSquat](https://github.com/lyvd/Pack-A-Mal)). We would love to hear your feedback and your support/sponsor.
 <!--
 **lyvd/lyvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
